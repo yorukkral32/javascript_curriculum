@@ -176,6 +176,9 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [spankie's Solution](https://spankie1337.github.io/etch-a-sketch/) - [View in Browser](https://spankie1337.github.io/etch-a-sketch/)
 * [Vyhn's Solution](https://github.com/Vyhnn/Etch-a-Sketch) - [View in Browser](https://vyhnn.github.io/Etch-a-Sketch/)
 * [Tommy's Solution](https://github.com/hoangtommy/etchysketchy) - [View in Browser](https://hoangtommy.github.io/etchysketchy/)
+[Okan's Solution](https://github.com/yorukkral32/Etch-a-Sketch) - [View in Browser](https://yorukkral32.github.io/Etch-a-Sketch/)
+
+
 * [Brendaneus' Solution](https://github.com/Brendaneus/Etch-a-Sketch) - [View in Browser](https://brendaneus.github.io/Etch-a-Sketch)
 * [Kern's Solution](https://github.com/Kelel1/Etch-A-Sketch) - [View in Browser](https://kelel1.github.io/Etch-A-Sketch/)
 * [Amy Smith's Solution](https://github.com/amicloud/the-odin-project/tree/master/sketchpad) - [View in Browser](https://amicloud.github.io/the-odin-project/sketchpad/sketchpad.html)
